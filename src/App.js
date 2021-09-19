@@ -1,4 +1,4 @@
-// Similar in loop different in data
+// Similar in look different in data
 import logo from './logo.svg';
 import './App.css';
 
