@@ -26,15 +26,17 @@ function App() {
   );
 }
 // Using Object daynimic data show array in object
+// Function but component
 function Cinema(props) {
   return (
+    // JSX Inside Html in js
     <div className="person">
       <h2>Name: {props.name}</h2>
       <h5>Naika: {props.naika}</h5>
     </div>
   )
 }
-function Person(props) {
+function Person(props) { //--> Props called a html properties or attribute parameter
   // using with app css
   return (
     <div className="person">
